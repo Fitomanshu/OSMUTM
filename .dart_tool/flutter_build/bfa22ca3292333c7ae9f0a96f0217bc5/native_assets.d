@@ -1,0 +1,1 @@
+ C:\\Users\\Marvi\\Downloads\\osm_flutter-master\\osm_flutter-master\\example\\.dart_tool\\flutter_build\\bfa22ca3292333c7ae9f0a96f0217bc5\\native_assets.yaml: 

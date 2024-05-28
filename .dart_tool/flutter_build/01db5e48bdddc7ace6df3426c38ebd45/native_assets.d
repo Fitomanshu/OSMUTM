@@ -1,0 +1,1 @@
+ C:\\Users\\Marvi\\OneDrive\\Documentos\\GitHub\\Open-Street-Maps-UTM\\.dart_tool\\flutter_build\\01db5e48bdddc7ace6df3426c38ebd45\\native_assets.yaml: 
